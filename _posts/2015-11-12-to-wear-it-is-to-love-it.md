@@ -7,17 +7,17 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-12T03:35:00.851Z'
-dateModified: '2015-11-12T03:34:54.092Z'
+datePublished: '2015-11-12T03:46:50.496Z'
+dateModified: '2015-11-12T03:46:47.117Z'
 title: To wear it is to love it.
+sourcePath: _posts/2015-11-12-to-wear-it-is-to-love-it.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-12-to-wear-it-is-to-love-it.md
-published: true
 _type: Blurb
 
 ---
