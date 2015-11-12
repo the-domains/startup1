@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[startup1]]></title>
         <description><![CDATA[startup1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/startup1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 02:09:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 03:13:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/startup1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Watch - Guided Tours - Apple]]></title>
+            <description><![CDATA[<article><h1>Apple Watch - Guided Tours - Apple</h1><p>Explore all you can do with Apple Watch. The Guided Tour videos show you how to change the watch face, connect with Digital Touch, and more.</p><img src="http://images.apple.com/v/watch/g/images/shared/og_guided_tours.jpg?201510211656"></article>]]></description>
+            <link>http://www.apple.com/watch/guided-tours/</link>
+            <guid isPermaLink="false">443822d6-a6be-4525-b32f-cc99139ac677</guid>
+            <pubDate>Thu, 12 Nov 2015 03:12:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Notiﬁcations. Siri. Apple Pay. Right on your wrist.]]></title>
             <description><![CDATA[<article><h1>Notiﬁcations. Siri. Apple Pay. Right on your wrist.</h1><p>Not to mention Music, Maps, and phone calls. Apple Watch lets you do the things you do every day, more easily and conveniently. As well as lots of things that simply weren’t possible before.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/713b7430-3728-4c7a-a7f7-401e07013e06.png"></article>]]></description>
-            <link>undefinednotications-siri-apple-pay-right-on-your-wrist/index.html</link>
+            <link>https://thegrid.ai/startup1/notications-siri-apple-pay-right-on-your-wrist/index.html</link>
             <guid isPermaLink="false">95e33de4-46b0-407f-8e96-64451534e1cb</guid>
             <pubDate>Thu, 12 Nov 2015 02:08:54 GMT</pubDate>
         </item>
