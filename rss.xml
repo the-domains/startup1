@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[startup1]]></title>
+        <description><![CDATA[startup1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 Nov 2015 02:09:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Notiﬁcations. Siri. Apple Pay. Right on your wrist.]]></title>
+            <description><![CDATA[<article><h1>Notiﬁcations. Siri. Apple Pay. Right on your wrist.</h1><p>Not to mention Music, Maps, and phone calls. Apple Watch lets you do the things you do every day, more easily and conveniently. As well as lots of things that simply weren’t possible before.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/713b7430-3728-4c7a-a7f7-401e07013e06.png"></article>]]></description>
+            <link>undefinednotications-siri-apple-pay-right-on-your-wrist/index.html</link>
+            <guid isPermaLink="false">95e33de4-46b0-407f-8e96-64451534e1cb</guid>
+            <pubDate>Thu, 12 Nov 2015 02:08:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
