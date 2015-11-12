@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-12T00:45:15.838Z'
-dateModified: '2015-11-12T00:44:20.798Z'
+datePublished: '2015-11-12T03:35:00.851Z'
+dateModified: '2015-11-12T03:34:54.092Z'
 title: To wear it is to love it.
 authors: []
 publisher:
