@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-12T03:46:50.496Z'
-dateModified: '2015-11-12T03:46:47.117Z'
+datePublished: '2015-12-01T18:24:34.095Z'
+dateModified: '2015-11-16T03:35:38.214Z'
 title: To wear it is to love it.
 sourcePath: _posts/2015-11-12-to-wear-it-is-to-love-it.md
 published: true
@@ -18,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+author: []
 _type: Blurb
 
 ---
